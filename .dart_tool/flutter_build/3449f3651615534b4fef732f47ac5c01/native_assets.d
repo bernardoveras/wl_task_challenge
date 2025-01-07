@@ -1,0 +1,1 @@
+ /Users/bernardoveras/development/repositories/temp/task_challenge/.dart_tool/flutter_build/3449f3651615534b4fef732f47ac5c01/native_assets.yaml: 
