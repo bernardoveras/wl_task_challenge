@@ -90,7 +90,8 @@ As seguintes ferramentas e boas práticas foram usadas na construção do projet
 -   Hive
 -   Change Notifier
 -   Testes unitários
--   Conceitos do Clean Code
+-   Clean Code
+-   Arquitetura MVVM
 -   Offline first
 -   Paginação
 
