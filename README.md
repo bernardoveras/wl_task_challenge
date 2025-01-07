@@ -91,6 +91,7 @@ As seguintes ferramentas e boas práticas foram usadas na construção do projet
 -   Change Notifier
 -   Testes unitários
 -   Conceitos do Clean Code
+-   Offline first
 -   Paginação
 
 ## 🧙‍♂️ Autor
